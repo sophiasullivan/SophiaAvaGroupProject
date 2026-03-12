@@ -219,11 +219,11 @@ def compare_sd(obj1, obj2, lst:list[class_defs.SurveySubmission]) -> Optional[fl
         print("Error: standard deviations cannot be calculated from provided list of length 0")
         return None
     if obj1_statvar.sd > obj2_statvar.sd:
-        print(obj1," standard deviation math attitude is greater than ",obj2,"'s standard deviation math attitude, ",obj1_statvar.sd," > ",obj2_statvar.sd)
+        print(obj1," standard deviation math attitude is greater than ",obj2," standard deviation math attitude, ",obj1_statvar.sd," > ",obj2_statvar.sd)
         return obj1_statvar.sd
     elif obj2_statvar.sd > obj1_statvar.sd:
-        print(obj2, " standard deviation math attitude is greater than ", obj1, "'s standard deviation math attitude, ", obj2_statvar.sd, " > ", obj1_statvar.sd)
+        print(obj2, " standard deviation math attitude is greater than ", obj1, " standard deviation math attitude, ", obj2_statvar.sd, " > ", obj1_statvar.sd)
         return obj2_statvar.sd
     else:
-        print(obj1, " standard deviation math attitude is equal to ", obj2, "'s standard deviation math attitude, ", obj1_statvar.sd, " = ", obj2_statvar.sd)
+        print(obj1, " standard deviation math attitude is equal to ", obj2, " standard deviation math attitude, ", obj1_statvar.sd, " = ", obj2_statvar.sd)
         return obj1_statvar.sd
