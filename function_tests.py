@@ -319,7 +319,7 @@ class TestCase(unittest.TestCase):
         self.assertEqual(expected,result)
 
 #Sophia
-#This test is simply a testcase with an example list of SurveySubmission objects, and will not provide data we are interested in.
+#This test is simply a testcase with an example list of SurveySubmission objects, and will not provide data we are interested in
     def test_compare_sd(self):
         lst = [SurveySubmission("Woman", "Hispanic/Latinx", "First year undergraduate student",
                                 "College of Liberal Arts (CLA)", -0.1),
