@@ -1,0 +1,30 @@
+Woman:Hispanic/Latinx:First year undergraduate student:College of Liberal Arts (CLA):True:True:True:True:False:True:False:True:True:False:True
+Woman:White:First year undergraduate student:Bailey College of Science and Mathematics (COSAM):True:True:True:True:False:True:True:False:False:True:True
+Woman:Hispanic/Latinx:First year undergraduate student:College of Liberal Arts (CLA):False:True:False:True:False:True:False:True:False:True:True
+Woman:Hispanic/Latinx:First year undergraduate student:College of Agriculture, Food, and Environmental Sciences (CAFES):True:True:True:False:False:True:False:True:False:True:True
+Woman:Hispanic/Latinx:First year undergraduate student:Orfalea College of Business (OCOB):True:True:True:True:False:True:True:False:False:True:True
+Woman:Asian:First year undergraduate student:College of Engineering (CENG):True:True:True:True:True:True:True:True:True:True:True
+Woman:Asian:First year undergraduate student:College of Engineering (CENG):True:True:True:True:True:True:False:False:False:True:True
+Man:Hispanic/Latinx:First year undergraduate student:College of Engineering (CENG):True:True:False:False:True:True:False:False:False:True:True
+Woman:Hispanic/Latinx:First year undergraduate student:College of Engineering (CENG):True:True:False:True:False:True:True:True:False:True:True
+Woman:Hispanic/Latinx:First year undergraduate student:College of Engineering (CENG):True:True:True:True:False:True:True:False:True:True:True
+Man:Hispanic/Latinx:First year undergraduate student:College of Engineering (CENG):True:True:False:True:False:True:False:True:False:True:True
+Man:White:First year undergraduate student:College of Engineering (CENG):True:True:True:False:True:True:False:False:False:True:True
+Woman:Hispanic/Latinx:First year undergraduate student:College of Engineering (CENG):True:True:False:True:True:False:True:True:True:True:True
+Man:Asian:First year undergraduate student:College of Engineering (CENG):True:True:True:True:True:False:False:True:False:True:True
+Man:Asian:Third year undergraduate student:College of Engineering (CENG):True:True:False:True:False:False:False:False:False:True:False
+Woman:Asian:Fourth year undergraduate student:College of Engineering (CENG):True:True:True:True:True:True:False:False:False:True:True
+Woman:Asian:Fourth year undergraduate student:College of Engineering (CENG):True:True:True:True:True:True:True:False:True:True:True
+Man:Hispanic/Latinx:First year undergraduate student:College of Engineering (CENG):True:True:True:True:True:True:False:False:False:True:True
+Man:Asian:Fourth year undergraduate student:College of Engineering (CENG):True:True:True:True:True:True:False:False:False:True:True
+Man:Two or more races/ethnicities:Third year undergraduate student:Bailey College of Science and Mathematics (COSAM):True:True:False:True:False:True:False:False:True:True:True
+Man:Asian:Third year undergraduate student:Orfalea College of Business (OCOB):False:True:True:True:False:True:False:True:True:True:True
+Woman:Hispanic/Latinx:Second year undergraduate student:Bailey College of Science and Mathematics (COSAM):True:True:True:True:True:True:True:True:False:True:True
+Woman:Asian:Third year undergraduate student:College of Liberal Arts (CLA):False:True:True:True:True:False:True:True:True:False:True
+Man:Hispanic/Latinx:Third year undergraduate student:Orfalea College of Business (OCOB):True:True:True:True:True:True:False:False:False:False:True
+Man:Asian:First year undergraduate student:Bailey College of Science and Mathematics (COSAM):True:False:True:False:True:True:True:False:True:True:True
+Man:Hispanic/Latinx:Second year undergraduate student:College of Agriculture, Food, and Environmental Sciences (CAFES):False:True:True:False:False:True:True:True:False:False:True
+Man:American/Alaskan Native:Fourth year undergraduate student:College of Engineering (CENG):True:True:True:False:True:True:False:False:False:True:True
+Man:White:Second year undergraduate student:College of Engineering (CENG):True:True:True:True:False:False:False:False:False:True:True
+Woman:White:First year undergraduate student:Bailey College of Science and Mathematics (COSAM):True:True:True:False:True:True:True:False:False:True:True
+Man:Two or more races/ethnicities:Third year undergraduate student:Bailey College of Science and Mathematics (COSAM):True:True:True:False:False:True:False:False:False:True:True
